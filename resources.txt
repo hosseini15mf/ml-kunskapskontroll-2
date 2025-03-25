@@ -1,1 +1,6 @@
-https://ploomber.io/blog/streamlit_exe/ for exe file
+https://github.com/AntonioPrgomet/ds24_ml
+https://scikit-learn.org/stable/index.html
+https://www.ibm.com/us-en
+https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
+https://www.geeksforgeeks.org/random-forest-classifier-using-scikit-learn/
+https://faradars.org/courses/fvml9505-machine-learning (in persian)

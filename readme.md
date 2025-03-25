@@ -1,5 +1,5 @@
 To be able to run this project you need to:
-1. Open a terminal and go to this project root folder path
+1. Open a terminal (powershell) and go to this project root folder path
 2. Unzip the zipped files by running **Expand-Archive -Path rf_model.zip -DestinationPath ./** 
    and **Expand-Archive -Path best_model.zip -DestinationPath ./** in the terminal
 3. Run **pip install -r requirements.txt** in the terminal
